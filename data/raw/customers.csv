@@ -1,0 +1,101 @@
+customer_id,customer_name,city,region_id,customer_segment
+1,David Abdullahi,Warri,6,Corporate
+2,Ibrahim Bello,Sokoto,2,Consumer
+3,Daniel Olawale,Port Harcourt,6,Small Business
+4,Amina Abdullahi,Lagos,4,Consumer
+5,Blessing Garba,Kano,2,Small Business
+6,Daniel Olawale,Kaduna,2,Consumer
+7,Musa James,Lagos,4,Consumer
+8,Fatima Mohammed,Uyo,6,Consumer
+9,Zainab Mohammed,Kano,2,Consumer
+10,David Mohammed,Ibadan,4,Small Business
+11,Zainab Abdullahi,Bauchi,3,Corporate
+12,David Eze,Enugu,5,Small Business
+13,Peter Garba,Yola,3,Small Business
+14,Daniel Okafor,Kano,2,Small Business
+15,Zainab James,Kano,2,Consumer
+16,Fatima James,Bida,1,Small Business
+17,Grace Mohammed,Yola,3,Consumer
+18,Mary Okafor,Warri,6,Small Business
+19,Blessing Adeyemi,Kano,2,Corporate
+20,Mary Olawale,Lagos,4,Small Business
+21,Peter Abdullahi,Maiduguri,3,Consumer
+22,Fatima James,Maiduguri,3,Consumer
+23,Joy Mohammed,Enugu,5,Small Business
+24,Fatima Yusuf,Lagos,4,Corporate
+25,Ibrahim Olawale,Sokoto,2,Corporate
+26,Musa Eze,Warri,6,Corporate
+27,Ibrahim Bello,Bauchi,3,Corporate
+28,Zainab Abdullahi,Minna,1,Consumer
+29,Grace Eze,Warri,6,Consumer
+30,Fatima Garba,Ibadan,4,Small Business
+31,Blessing Abdullahi,Bauchi,3,Small Business
+32,Esther Olawale,Bida,1,Small Business
+33,David James,Yola,3,Consumer
+34,Amina James,Abeokuta,4,Consumer
+35,Joy Okafor,Abakaliki,5,Corporate
+36,Blessing Garba,Port Harcourt,6,Consumer
+37,Zainab Bello,Bauchi,3,Small Business
+38,Musa Mohammed,Bida,1,Consumer
+39,Joy Mohammed,Bida,1,Consumer
+40,Ibrahim Garba,Minna,1,Consumer
+41,Samuel Okafor,Warri,6,Consumer
+42,Esther Yusuf,Sokoto,2,Consumer
+43,Blessing Garba,Yola,3,Consumer
+44,Zainab Adeyemi,Abakaliki,5,Corporate
+45,Esther Mohammed,Ibadan,4,Small Business
+46,David Adeyemi,Lagos,4,Consumer
+47,Amina Garba,Bauchi,3,Consumer
+48,Ibrahim Abdullahi,Enugu,5,Small Business
+49,Amina Adeyemi,Port Harcourt,6,Consumer
+50,David Olawale,Maiduguri,3,Corporate
+51,Samuel Adeyemi,Warri,6,Consumer
+52,Joy Garba,Warri,6,Corporate
+53,Zainab Yusuf,Kaduna,2,Consumer
+54,David Eze,Bida,1,Corporate
+55,Samuel Abdullahi,Abeokuta,4,Small Business
+56,David Abdullahi,Uyo,6,Small Business
+57,Zainab Okafor,Maiduguri,3,Consumer
+58,Blessing Yusuf,Kano,2,Corporate
+59,Mary Yusuf,Kano,2,Consumer
+60,Zainab Olawale,Lagos,4,Consumer
+61,Blessing Abdullahi,Port Harcourt,6,Consumer
+62,Fatima Yusuf,Kaduna,2,Consumer
+63,Joy Abdullahi,Lagos,4,Corporate
+64,Fatima James,Bida,1,Corporate
+65,Daniel Olawale,Abeokuta,4,Small Business
+66,Grace Adeyemi,Ibadan,4,Consumer
+67,Musa Olawale,Minna,1,Small Business
+68,Amina Abdullahi,Bauchi,3,Corporate
+69,Joy Olawale,Enugu,5,Consumer
+70,David Bello,Enugu,5,Small Business
+71,Esther Adeyemi,Bida,1,Consumer
+72,Ibrahim Garba,Abakaliki,5,Consumer
+73,David Eze,Abakaliki,5,Small Business
+74,Blessing Mohammed,Owerri,5,Consumer
+75,Daniel Mohammed,Port Harcourt,6,Corporate
+76,Grace James,Ibadan,4,Corporate
+77,Amina Yusuf,Abuja,1,Small Business
+78,David Olawale,Minna,1,Small Business
+79,Grace Mohammed,Maiduguri,3,Consumer
+80,Mary Bello,Yola,3,Small Business
+81,Mary Garba,Warri,6,Small Business
+82,Esther Olawale,Bida,1,Small Business
+83,Joy Bello,Bida,1,Consumer
+84,Daniel Olawale,Minna,1,Corporate
+85,Musa Adeyemi,Bauchi,3,Corporate
+86,Esther James,Sokoto,2,Corporate
+87,Joy Abdullahi,Maiduguri,3,Small Business
+88,Peter James,Lagos,4,Consumer
+89,Zainab Bello,Bauchi,3,Corporate
+90,Daniel Yusuf,Sokoto,2,Small Business
+91,Blessing Abdullahi,Lagos,4,Consumer
+92,Joy Bello,Warri,6,Consumer
+93,Musa Olawale,Maiduguri,3,Corporate
+94,Amina James,Kaduna,2,Consumer
+95,Ibrahim Adeyemi,Bauchi,3,Consumer
+96,Zainab Olawale,Yola,3,Small Business
+97,Grace Adeyemi,Port Harcourt,6,Consumer
+98,Amina Bello,Abeokuta,4,Corporate
+99,Zainab Adeyemi,Ibadan,4,Consumer
+100,David Eze,Port Harcourt,6,Corporate

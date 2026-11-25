@@ -1,0 +1,19 @@
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Power BI temporary and backup files
+*.tmp
+*.bak
+
+# Operating system
+.DS_Store
+Thumbs.db
+*.db
